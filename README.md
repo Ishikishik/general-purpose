@@ -1,6 +1,13 @@
-# general-purpose
-機械に使われる汎用部品。
-主にOpenScadによるものであるため、数字を変えるだけで簡単に部品を錬成できる。
+# General Purpose
 
-# Linear_rail
-![Linear_rail](Linear_Rail/linear_Rail.JPG)
+機械に使われる汎用部品集です。  
+主に OpenSCAD 製で、パラメータを変更するだけで様々なサイズの部品を生成できます。
+
+## Linear Rail
+
+<p align="center">
+  <img src="Linear_Rail/Linear_Rail.JPG" width="600">
+</p>
+
+リニアレールとスライダーブロックです。
+寸法を変更することで用途に応じたサイズを生成できます。
