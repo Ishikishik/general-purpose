@@ -3,4 +3,4 @@
 主にOpenScadによるものであるため、数字を変えるだけで簡単に部品を錬成できる。
 
 # Linear_rail
-![Linear_rail](Linear_rail/linear_rail.JPG)
+![Linear_rail](Linear_Rail/linear_rail.JPG)
