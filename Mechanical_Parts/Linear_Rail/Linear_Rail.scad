@@ -12,7 +12,7 @@ Ball_radius = 3.5/2; //直径2.5mmを採用
 Groove = 1;
 
 //レール
-Rail_Thickness = 150;
+Rail_Thickness = 50;
 Rail_High = 15;
 Rail_Wide = 30;
 
@@ -26,7 +26,7 @@ Rail_Nail_Wide = 2;
 Rail_Nail_High = 1.5;
 
 //ブロック
-Block_Thickness = 20;
+Block_Thickness = 22;
 
 Block_Space_Upper_Wide = Space_Upper_Wide-Groove;
 Block_Space_Under_Wide = Space_Under_Wide-Groove;
@@ -50,7 +50,7 @@ Blockend_Rail_Nail_High = Rail_Nail_High*0.7;
 1:レールだけ
 2:ブロックだけ
 */
-viewmode = 1;
+viewmode =2;
 
 /* ブロックsplitmode
 0:結合

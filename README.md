@@ -1,13 +1,44 @@
 # General Purpose
+機械部品とPCB。プログラムを含むものはそれぞれのリポジトリをチェック
 
+## 目次
+- [Mechanical Parts](#mechanical-parts)
+  - [LinearRail](#linearrail)
+  - [Bearing](#bearing)
+- [PCB](#pcb)
+  - [esp32s3devboard](#esp32s3devboard)
+  - [2.1DC](#21dc)
+
+## Mechanical Parts
 機械に使われる汎用部品集です。  
 主に OpenSCAD 製で、パラメータを変更するだけで様々なサイズの部品を生成できます。
 
-## Linear Rail
+### LinearRail
 
 <p align="center">
-  <img src="Linear_Rail/Linear_Rail.JPG" width="600">
+  <img src="Mechanical_Parts/Linear_Rail/Linear_Rail.JPG" width="600">
 </p>
 
 リニアレールとスライダーブロックです。
 寸法を変更することで用途に応じたサイズを生成できます。
+
+### Bearing
+<p align="center">
+  <img src="Mechanical_Parts/Bearing/Bearing.png" width="600">
+</p>
+
+いい感じのベアリングです。
+
+## PCB
+### esp32s3devboard
+<p align="center">
+  <img src="pcb/esp32s3devboard/esp32s3devboard.png" width="600">
+</p>
+
+esp32s3のdevboardです。細長いのでブレボに刺すのにおすすめ
+
+### 2.1DC 
+<p align="center">
+  <img src="pcb/2.1DC/2.1DC.png" width="600">
+</p>
+2.1のdcを2.54ミリピッチに変えることができる。ラズパイにそのままブッさせる。
